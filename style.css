@@ -1,0 +1,25 @@
+header, main {
+    padding: 10px 2px;
+}
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.exercicio {
+    border: solid black 2px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.boxModel {
+    padding: 5px;
+    background-color: gray;
+    border: solid blue 2px;
+}
